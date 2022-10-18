@@ -15,9 +15,10 @@
 | 40  | Gagnagrunnur / Lokaverkefni | 6 / 7  | 2 / 6 |  |
 | 41  | Lokaverkefni 🔑 Lykilmatsþáttur | 7 | 6<sup>3</sup> | 20  |
 |     | <sub>Námsmatsdagar, (1) 06/09 og (2) 28/09<br>(3) **Skil á lokaverkefni er 13. október**. - Spönn 1 lýkur  18/10 </sub> |  |  | 100%  |
-
-#### 👋 [Undirbúningur og bjargir](https://github.com/vefumsjon/Namsefni/wiki)
 -->
+<--
+#### 👋 [Undirbúningur og bjargir](https://github.com/vefumsjon/Namsefni/wiki)
+
 #### 🧙💻 [Verkefni, námsefni og sýnidæmi](https://github.com/vefthroun/namsefni/)
 
 #### 🌈 Verkefnaskil: [Github.com/22VF](https://github.com/22vf)
