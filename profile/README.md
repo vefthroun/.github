@@ -2,13 +2,12 @@
 
 
 <!--
-#### 👋 [Undirbúningur og bjargir](https://github.com/vefumsjon/Namsefni/wiki)
 
-#### 🧙💻 [Verkefni, námsefni og sýnidæmi](https://github.com/vefthroun/namsefni-/)
+#### 🧙💻 [Verkefni og námsefni](https://github.com/vefthroun/namsefni-s2/)
 
-#### 🌈 Verkefnaskil: 
+#### 🌈 Verkefnaskil: Nemendur stofna verkefnageymslu (_Privat Repository_) á Github og skila öllum verkefnum áfangans þar. Kennari þarf að fá aðgang að verkefnageymslunni (_Collaborator_) til að fara yfir verkefnin.
 
-#### 🙋‍♀️ Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
+#### 👋 [Bjargir](https://github.com/vefumsjon/Namsefni-s2/wiki)
 
 -->
 
