@@ -2,7 +2,7 @@
 
 ### 2023 vor, spönn 2.
 
-* 🧙 🌈 💻 [Verkefni og námsefni](https://github.com/vefthroun/namsefni-s2/)
+* [Verkefni og námsefni](https://github.com/vefthroun/namsefni-s2/)
 
 
 
